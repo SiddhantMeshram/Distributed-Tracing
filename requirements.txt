@@ -1,0 +1,4 @@
+flask==2.1.2
+opentracing==2.4.0
+jaeger_client==4.7.0
+
